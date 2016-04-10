@@ -1,5 +1,5 @@
 # Absolutely Nothing
-This module does Absolutely Nothing, and it does it better than anybody else..
+This module does Absolutely Nothing, and it does it better than anybody else.
 
 ### Zero Dependencies
 It requires no dependencies, and plays well with any and all legacy code.
