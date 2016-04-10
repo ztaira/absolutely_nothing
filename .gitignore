@@ -1,4 +1,4 @@
 .pypirc
 *.gz
 MANIFEST
-
+*.pyc
