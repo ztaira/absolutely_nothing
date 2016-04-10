@@ -17,7 +17,7 @@ solve any problems.
 ### Installation
 Installation is easy! Just run:
 
-'''pip install absolutely\_nothing'''
+``pip install absolutely\_nothing```
 
 ### License
 It's released under the WTFPL.
