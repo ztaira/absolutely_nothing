@@ -20,5 +20,4 @@ Installation is easy! Just run:
 ``pip install absolutely_nothing``
 
 ### License
-It's released under the WTFPL.
-Have fun! :D
+GPL v3.
